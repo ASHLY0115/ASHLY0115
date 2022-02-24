@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashly Rose Antony</h1>
-<h3 align="center">A passionate Student from sjcet palai</h3>
+<h3 align="center">A passionate Student from SJCET palai</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashly0115&label=Profile%20views&color=0e75b6&style=flat" alt="ashly0115" /> </p>
 
