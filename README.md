@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashly0115" alt="ashly0115" /></a> </p>
 
-- 🌱 I’m currently learning **c,java ,python**
+- 🌱 I’m currently learning **c,java ,python,mysql,html and css**
 
 - 📫 How to reach me **ashlyroseantony2001@gmail.com**
 
